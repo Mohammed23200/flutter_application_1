@@ -1,16 +1,31 @@
-# flutter_application_1
+# Flutter Gradient Text App
 
-A new Flutter project.
+This is a basic Flutter project that displays a custom text over a gradient background.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Simple gradient background using custom colors.
+- Centered text message.
+- Clean and minimal UI.
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/f28060db-d147-4cf7-864e-4feb43f2d44b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🚀 Getting Started
+
+1. Clone the repo  
+   `git clone https://github.com/YOUR_USERNAME/flutter_hello_world_gradient`
+
+2. Run the app  
+   `flutter run`
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+
+## 🧠 Author
+
+Made with 💙 by [Jimmy Master](https://github.com/Mohammed23200)
