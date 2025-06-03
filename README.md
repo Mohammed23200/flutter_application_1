@@ -16,7 +16,7 @@ This is a basic Flutter project that displays a custom text over a gradient back
 ## 🚀 Getting Started
 
 1. Clone the repo  
-   `git clone [https://github.com/YOUR_USERNAME/flutter_hello_world_gradient](https://github.com/Mohammed23200/flutter_application_1/tree/main)`
+   `git clone [https://github.com/Mohammed23200/flutter_application_1]`
 
 2. Run the app  
    `flutter run`
